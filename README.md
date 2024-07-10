@@ -4,7 +4,7 @@
 
 This command-line interface (CLI) tool analyzes the character frequency in files within a specified directory and optionally filters by file type. It generates a sideways bar chart in the terminal to visualize the most common characters.
 
-![Screenshot](screenshot.png)
+![Screenshot](screen.png)
 
 ## Installation
 
